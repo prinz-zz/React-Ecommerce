@@ -1,0 +1,11 @@
+install sass - npm install sass
+
+install material ui - npm install @mui/material @emotion/react @emotion/styled
+
+install MUI Icons - npm install @mui/icons-material
+
+install Recharts -  npm install recharts
+
+install react-routers -  npm install react-router-dom
+
+install DataGrid -

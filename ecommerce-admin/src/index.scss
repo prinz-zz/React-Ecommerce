@@ -1,0 +1,15 @@
+:root {
+  --head-color:#9c9da5;
+  --font-color:#5e6278;
+  --mr10:10px;
+  --mt20:20px;
+}
+.home {
+  flex: 4;
+  margin-top: 20px;
+
+  .homeWidgtes {
+      display: flex;
+      margin: 20px;
+  }
+}
